@@ -1,6 +1,6 @@
 # plate_number_detection
 
-Detects license plate of car and recognizes its characters
+Detects license plate of a vehicle and recognizes its characters.
 
 ## Dependencies
 
@@ -9,10 +9,10 @@ Detects license plate of car and recognizes its characters
 3. Tensorflow 2.7
 4. numpy
 
-## Create your Virtualenv and install the requirements
+## Create your Virtualenv
 python -m venv yourenv
 
-## Activate the created Virtualenv
+## Activate the Virtualenv
 source yourenv/bin/activate
 
 ## Install the requirements
