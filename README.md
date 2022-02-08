@@ -19,7 +19,7 @@ source yourenv/bin/activate
 
 pip install -r requirements.txt
 
-## Test
+## Run
 
 1. Install al the above dependencies
 1. Download or git clone the repository plate_number_detection to your system and copy the package number_plates to the desired folder
